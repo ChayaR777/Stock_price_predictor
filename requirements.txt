@@ -1,0 +1,12 @@
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+joblib
+fastapi
+uvicorn[standard]
+email-validator
+bcrypt==4.0.1
